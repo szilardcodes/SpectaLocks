@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="204px" height="305px" viewBox="0 0 204 305" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>specta_icon copy</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#747474" offset="0%"></stop>
+            <stop stop-color="#292929" offset="64.8765297%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#EEFFEE" offset="0%"></stop>
+            <stop stop-color="#5F895F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#DFFFDF" offset="0%"></stop>
+            <stop stop-color="#B1CEB1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Specta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Store" transform="translate(-154.000000, -101.000000)">
+            <g id="lock-group" transform="translate(154.529412, 106.000000)">
+                <path d="M44.104863,83.1496831 C44.104863,78.2141711 44.104863,69.8820786 44.104863,58.1534054 C44.104863,17.0588596 70.7178654,0 100.60529,0 C129.223373,0 158.777507,17.6615574 158.777507,58.1534054 C158.777507,62.890161 158.777507,85.6625552 158.777507,126.470588 C132.892739,119.467283 113.502,115.96563 100.60529,115.96563"
+                      id="Path" stroke="#292929" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"
+                      transform="translate(101.441185, 63.235294) scale(-1, 1) translate(-101.441185, -63.235294) "></path>
+                <g id="WFIIcon" transform="translate(0.000000, 97.058824)">
+                    <ellipse id="Oval" fill="#292929" cx="101.441185" cy="101.470588" rx="101.441185"
+                             ry="101.470588"></ellipse>
+                    <ellipse id="Oval" stroke="#E2FFE2" stroke-width="2" fill="url(#linearGradient-1)" cx="101.441185"
+                             cy="101.470588" rx="68.0976188" ry="68.1176471"></ellipse>
+                    <line x1="101.307534" y1="34.0962567" x2="101.307534" y2="57.3582888" id="Path-2" stroke="#E2FFE2"
+                          stroke-width="2" stroke-linecap="round"></line>
+                    <line x1="101.441185" y1="146.117647" x2="101.441185" y2="169.647059" id="Path-2" stroke="#E2FFE2"
+                          stroke-width="2" stroke-linecap="round"></line>
+                    <g id="Group-2" transform="translate(108.796273, 36.176471)" stroke="#E2FFE2"
+                       stroke-linecap="round">
+                        <line x1="3.84424284" y1="1.12404898" x2="13.1416623" y2="15.8285472" id="Path-2"
+                              transform="translate(8.492953, 8.476298) rotate(-134.713615) translate(-8.492953, -8.476298) "></line>
+                        <line x1="33.4596199" y1="15.424863" x2="33.4856159" y2="40.2163416" id="Path-2"
+                              stroke-width="2"
+                              transform="translate(33.472618, 27.820602) rotate(-134.713615) translate(-33.472618, -27.820602) "></line>
+                        <line x1="20.4092713" y1="6.7506523" x2="24.1501148" y2="23.3550018" id="Path-2"
+                              transform="translate(22.279693, 15.052827) rotate(-134.713615) translate(-22.279693, -15.052827) "></line>
+                        <line x1="47.3356904" y1="29.9487705" x2="43.1399434" y2="48.5176543" id="Path-2"
+                              transform="translate(45.237817, 39.233212) rotate(-134.713615) translate(-45.237817, -39.233212) "></line>
+                        <line x1="54.0581443" y1="46.0941407" x2="46.0754439" y2="60.12767" id="Path-2"
+                              transform="translate(50.066794, 53.110905) rotate(-134.713615) translate(-50.066794, -53.110905) "></line>
+                    </g>
+                    <g id="Group-2"
+                       transform="translate(63.156025, 66.619614) scale(-1, 1) translate(-63.156025, -66.619614) translate(36.224794, 37.176471)"
+                       stroke="#E2FFE2" stroke-linecap="round">
+                        <line x1="3.84424284" y1="1.12404898" x2="13.1416623" y2="15.8285472" id="Path-2"
+                              transform="translate(8.492953, 8.476298) rotate(-134.713615) translate(-8.492953, -8.476298) "></line>
+                        <line x1="31.4856334" y1="16.4106643" x2="31.4023924" y2="38.0464522" id="Path-2"
+                              stroke-width="2"
+                              transform="translate(31.444013, 27.228558) rotate(-134.713615) translate(-31.444013, -27.228558) "></line>
+                        <line x1="20.4092713" y1="6.7506523" x2="24.1501148" y2="23.3550018" id="Path-2"
+                              transform="translate(22.279693, 15.052827) rotate(-134.713615) translate(-22.279693, -15.052827) "></line>
+                        <line x1="45.125299" y1="30.699293" x2="39.2573068" y2="45.3396237" id="Path-2"
+                              transform="translate(42.191303, 38.019458) rotate(-134.713615) translate(-42.191303, -38.019458) "></line>
+                        <line x1="50.0593034" y1="44.0941407" x2="42.076603" y2="58.12767" id="Path-2"
+                              transform="translate(46.067953, 51.110905) rotate(-134.713615) translate(-46.067953, -51.110905) "></line>
+                    </g>
+                    <g id="Group-2"
+                       transform="translate(63.655880, 136.821562) scale(-1, -1) translate(-63.655880, -136.821562) translate(35.225084, 107.878419)"
+                       stroke="#E2FFE2" stroke-linecap="round">
+                        <line x1="3.84424284" y1="1.12404898" x2="13.1416623" y2="15.8285472" id="Path-2"
+                              transform="translate(8.492953, 8.476298) rotate(-134.713615) translate(-8.492953, -8.476298) "></line>
+                        <line x1="31.4601995" y1="15.424863" x2="31.4861955" y2="40.2163416" id="Path-2"
+                              stroke-width="2"
+                              transform="translate(31.473197, 27.820602) rotate(-134.713615) translate(-31.473197, -27.820602) "></line>
+                        <line x1="20.4092713" y1="6.7506523" x2="24.1501148" y2="23.3550018" id="Path-2"
+                              transform="translate(22.279693, 15.052827) rotate(-134.713615) translate(-22.279693, -15.052827) "></line>
+                        <line x1="44.3365597" y1="27.9487705" x2="40.1408127" y2="46.5176543" id="Path-2"
+                              transform="translate(42.238686, 37.233212) rotate(-134.713615) translate(-42.238686, -37.233212) "></line>
+                        <line x1="53.0584341" y1="43.0941407" x2="45.0757337" y2="57.12767" id="Path-2"
+                              transform="translate(49.067084, 50.110905) rotate(-134.713615) translate(-49.067084, -50.110905) "></line>
+                    </g>
+                    <g id="Group-2"
+                       transform="translate(138.226780, 136.821562) scale(1, -1) translate(-138.226780, -136.821562) translate(109.795984, 106.878419)"
+                       stroke="#E2FFE2" stroke-linecap="round">
+                        <line x1="3.84424284" y1="1.12404898" x2="13.1416623" y2="15.8285472" id="Path-2"
+                              transform="translate(8.492953, 8.476298) rotate(-134.713615) translate(-8.492953, -8.476298) "></line>
+                        <line x1="32.4599097" y1="15.424863" x2="32.4859057" y2="40.2163416" id="Path-2"
+                              stroke-width="2"
+                              transform="translate(32.472908, 27.820602) rotate(-134.713615) translate(-32.472908, -27.820602) "></line>
+                        <line x1="21.4089815" y1="6.7506523" x2="25.149825" y2="23.3550018" id="Path-2"
+                              transform="translate(23.279403, 15.052827) rotate(-134.713615) translate(-23.279403, -15.052827) "></line>
+                        <line x1="45.3362699" y1="27.9487705" x2="41.140523" y2="46.5176543" id="Path-2"
+                              transform="translate(43.238396, 37.233212) rotate(-134.713615) translate(-43.238396, -37.233212) "></line>
+                        <line x1="53.0584341" y1="45.0941407" x2="45.0757337" y2="59.12767" id="Path-2"
+                              transform="translate(49.067084, 52.110905) rotate(-134.713615) translate(-49.067084, -52.110905) "></line>
+                    </g>
+                    <line x1="165.525665" y1="93.0968013" x2="148.944681" y2="109.844375" id="Path-2" stroke="#E2FFE2"
+                          stroke-width="2" stroke-linecap="round"
+                          transform="translate(157.235173, 101.470588) rotate(-134.713615) translate(-157.235173, -101.470588) "></line>
+                    <line x1="53.9626372" y1="93.0968013" x2="37.3816527" y2="109.844375" id="Path-2" stroke="#E2FFE2"
+                          stroke-width="2" stroke-linecap="round"
+                          transform="translate(45.672145, 101.470588) rotate(-134.713615) translate(-45.672145, -101.470588) "></line>
+                    <ellipse id="Oval" fill="url(#linearGradient-2)" cx="101.441185" cy="101.470588" rx="33.8137283"
+                             ry="33.8235294"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-3)" cx="101.441185" cy="101.470588" rx="30.8734041"
+                             ry="30.8823529"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

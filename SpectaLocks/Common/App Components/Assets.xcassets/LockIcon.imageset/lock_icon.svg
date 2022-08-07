@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lock icon copy</title>
+    <g id="Specta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav-Bar-Copy" transform="translate(-53.000000, -11.000000)" stroke="#3D3D3D">
+            <g id="lock-icon-copy" transform="translate(53.000000, 12.000000)">
+                <circle id="Oval" cx="7.71691201" cy="14.283088" r="7.21691201"></circle>
+                <circle id="Oval" cx="7.71691201" cy="14.283088" r="3.35845601"></circle>
+                <path d="M4.26404978,7.71691201 C4.26404978,5.65353909 4.26404978,4.2640258 4.26404978,3.54837215 C4.26404978,1.04088801 5.89042741,0 7.71691201,0 C9.46582439,0 11.2719409,1.07766309 11.2719409,3.54837215 C11.2719409,4.31162315 11.2719409,5.70113643 11.2719409,7.71691201 C9.6900672,7.28958822 8.50505757,7.07592632 7.71691201,7.07592632 C6.92876645,7.07592632 5.77781237,7.28958822 4.26404978,7.71691201 Z"
+                      id="Path" stroke-linejoin="round"></path>
+                <line x1="7.71691201" y1="10.8642033" x2="7.71691201" y2="12.6346474" id="Path-2"
+                      stroke-linecap="round"></line>
+                <line x1="7.71691201" y1="16.0088113" x2="7.71691201" y2="17.6358609" id="Path-2"
+                      stroke-linecap="round"></line>
+                <line x1="5.19702382" y1="13.4889231" x2="5.19702382" y2="15.1545355" id="Path-2" stroke-linecap="round"
+                      transform="translate(5.197024, 14.321729) rotate(-90.000000) translate(-5.197024, -14.321729) "></line>
+                <line x1="10.2529924" y1="13.4727309" x2="10.2529924" y2="15.1707278" id="Path-2" stroke-linecap="round"
+                      transform="translate(10.252992, 14.321729) rotate(-90.000000) translate(-10.252992, -14.321729) "></line>
+                <line x1="5.87546968" y1="11.7525904" x2="5.88929519" y2="13.2413613" id="Path-2" stroke-linecap="round"
+                      transform="translate(5.882382, 12.496976) rotate(-45.000000) translate(-5.882382, -12.496976) "></line>
+                <line x1="9.61468999" y1="15.5271438" x2="9.62168311" y2="16.9262161" id="Path-2" stroke-linecap="round"
+                      transform="translate(9.618187, 16.226680) rotate(-45.000000) translate(-9.618187, -16.226680) "></line>
+                <line x1="9.55904756" y1="11.6908699" x2="9.67485928" y2="13.2011489" id="Path-2" stroke-linecap="round"
+                      transform="translate(9.616953, 12.446009) rotate(-134.713615) translate(-9.616953, -12.446009) "></line>
+                <line x1="5.81500072" y1="15.5385277" x2="5.79051712" y2="16.7853375" id="Path-2" stroke-linecap="round"
+                      transform="translate(5.802759, 16.161933) rotate(-134.713615) translate(-5.802759, -16.161933) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

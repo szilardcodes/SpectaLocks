@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="137px" height="100px" viewBox="0 0 137 100" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>safe</title>
+    <g id="Specta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="HomeScreen-Empty-State-Light-Mode" transform="translate(-117.000000, -407.000000)">
+            <g id="safe" transform="translate(117.000000, 407.000000)">
+                <rect id="Rectangle" stroke="#303030" fill="#EDEDED" x="58.6474158" y="0.5" width="77.125"
+                      height="92.75" rx="12"></rect>
+                <g id="internal-volume" transform="translate(64.136999, 10.729167)">
+                    <polygon id="Rectangle" fill="#92D0D4"
+                             points="49.0451389 16.875 63.28125 5.92118946e-14 63.28125 71.875 49.0451389 55.4166667"></polygon>
+                    <polygon id="Rectangle" fill="#92D0D4"
+                             transform="translate(9.895833, 35.937500) scale(-1, 1) translate(-9.895833, -35.937500) "
+                             points="2.86458333 16.875 16.9270833 5.92118946e-14 16.9270833 71.875 2.86458333 55.4166667"></polygon>
+                    <polygon id="Rectangle" fill="#C7FCFF"
+                             transform="translate(31.770833, 8.567708) scale(1, -1) rotate(90.000000) translate(-31.770833, -8.567708) "
+                             points="23.4635417 -8.70659722 40.078125 -23.203125 40.078125 40.3385417 23.4635417 23.4114583"></polygon>
+                    <polygon id="Rectangle" fill="#C7FCFF"
+                             transform="translate(31.640625, 63.776042) rotate(90.000000) translate(-31.640625, -63.776042) "
+                             points="23.28125 46.3715278 39.7395833 32.1354167 40 95.4166667 23.28125 78.4895833"></polygon>
+                    <rect id="Rectangle" fill="#7BB9BD" x="16.9270833" y="16.875" width="32.1180556"
+                          height="38.5416667"></rect>
+                </g>
+                <rect id="Rectangle" stroke="#303030" x="68.0224158" y="11.4375" width="58.8958333"
+                      height="70.875"></rect>
+                <path d="M9.16824916,0.59957247 L68.0640825,11.3544638 L68.0640825,82.3955362 L9.16824916,93.1504275 L9.16824916,0.59957247 Z"
+                      id="Rectangle" stroke="#303030" fill="#E2E2E2"></path>
+                <path d="M9.73074916,0.5 L9.73074916,93.25 L0.5,93.25 L0.5,0.5 L9.73074916,0.5 Z" id="Rectangle"
+                      stroke="#303030" fill="#CBCBCB"></path>
+                <ellipse id="Oval" stroke="#303030" fill="#D8D8D8" cx="44.3453325" cy="47.1354167" rx="9.85439312"
+                         ry="14.8645833"></ellipse>
+                <ellipse id="Oval" stroke="#303030" fill="#EEEEEE" cx="46.4286658" cy="46.875" rx="7.57291667"
+                         ry="11.4791667"></ellipse>
+                <rect id="Rectangle" stroke="#303030" fill="#D8D8D8" x="68.0224158" y="93.2083333" width="16.1875"
+                      height="6.29166667" rx="3.14583333"></rect>
+                <rect id="Rectangle" stroke="#303030" fill="#D8D8D8" x="111.251582" y="93.2083333" width="16.1875"
+                      height="6.29166667" rx="3.14583333"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
