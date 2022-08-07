@@ -32,16 +32,9 @@ class SettingsTests: XCTestCase {
             "settings.theme.light": "Light",
             "settings.theme.dark": "Dark",
             "settings.theme.system": "System",
-            "settings.legal.title": "Legal",
-            "settings.legal.hint": "Internet required to see legal docs.",
-            "settings.legal.disclaimer.title": "Disclaimer",
-            "settings.legal.disclaimer.url": "Disclaimer url",
-            "settings.legal.terms.title": "Terms & Conditions",
-            "settings.legal.terms.url": "Terms url",
-            "settings.legal.privacy.title": "Privacy policy",
-            "settings.legal.privacy.url": "Privacy url",
-            "settings.legal.eula.title": "End-user license agreement",
-            "settings.legal.eula.url": "Eula url",
+            "settings.site.title": "SpectaLocks page",
+            "settings.site.link.title": "szilardcodes.github.io/spectalocks",
+            "settings.site.link.urls": "https://szilardcodes.github.io/spectalocks",
             "settings.contact.title": "Contact",
             "settings.contact": "Contact the developer at: email"
         ]
@@ -65,17 +58,10 @@ class SettingsTests: XCTestCase {
                     isSelected: true
                 ),
             ],
-            legalTitle: "Legal",
-            legalHint: "Internet required to see legal docs.",
-            disclaimerTitle: "Disclaimer",
-            disclaimerUrl: "Disclaimer url",
-            termsTitle: "Terms & Conditions",
-            termsUrl: "Terms url",
-            privacyTitle: "Privacy policy",
-            privacyUrl: "Privacy url",
-            eulaTitle: "End-user license agreement",
-            eulaUrl: "Eula url",
-            contactTitle:"Contact",
+            siteTitle: "SpectaLocks page",
+            siteLinkTitle:  "szilardcodes.github.io/spectalocks",
+            siteLink: "https://szilardcodes.github.io/spectalocks",
+            contactTitle: "Contact",
             contact: "Contact the developer at: email"
         )
         let expectation = expectation(description: "Waiting for settings item")
